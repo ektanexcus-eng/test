@@ -1,0 +1,24 @@
+# vmahesh.in SEO-ready deployment
+
+Upload these three files to the public root of the website:
+
+- index.html
+- robots.txt
+- sitemap.xml
+
+Preferred canonical URL:
+https://www.vmahesh.in/
+
+After deployment:
+1. Verify https://www.vmahesh.in/ loads with HTTPS.
+2. Verify https://www.vmahesh.in/robots.txt
+3. Verify https://www.vmahesh.in/sitemap.xml
+4. Add/verify vmahesh.in in Google Search Console as a Domain property.
+5. Submit https://www.vmahesh.in/sitemap.xml.
+6. Use URL Inspection for https://www.vmahesh.in/ and request indexing once.
+7. Check Core Web Vitals and Page Indexing reports.
+
+Important:
+- The sitemap contains only the homepage because the supplied site is a single-page site with section anchors.
+- Do not add URLs to the sitemap until those pages actually exist.
+- Statistics and legal/policy claims in the page should be independently verified and sourced before being presented as established facts.
